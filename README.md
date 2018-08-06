@@ -1,5 +1,3 @@
-$ gcc newtoner.buildrooms.c -o newtoner.buildrooms
-$ ./newtoner.buildrooms
+$ ./build.sh
 
-$ gcc -o newtoner.adventure newtoner.adventure.c -lpthread
 $ ./newtoner.adventure
