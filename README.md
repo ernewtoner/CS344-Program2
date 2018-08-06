@@ -1,2 +1,1 @@
 $ ./build.sh
-$ ./newtoner.adventure
